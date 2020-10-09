@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mainPaddingRL">25dp</dimen>
+
+    <!--    confirmDato-->
+    <dimen name="elementMarginTop">20dp</dimen>
+</resources>

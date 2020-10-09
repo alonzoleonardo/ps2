@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EjercicioSemanaDos</string>
+    <string name="etPhNombre">Nombre</string>
+    <string name="etHtFecha">Seleccione fecha</string>
+    <string name="etHtTelefono">Teléfono</string>
+    <string name="etHtEmail">Email</string>
+    <string name="etHtDescripcion">Descripción</string>
+    <string name="buttonSiguiente">Siguiente</string>
+
+    <!--    Activity confirmar datos-->
+    <string name="header">Confirmar</string>
+    <string name="botonEditar">Editar</string>
+</resources>
